@@ -1,0 +1,2 @@
+# Rock_Paper_Scissors_Game
+Rock Paper Scissors is a hand game usually played between two people. In this game, scissors can beat paper, paper can beat rock, and rock can beat scissors.
