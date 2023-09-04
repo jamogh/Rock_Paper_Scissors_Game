@@ -1,6 +1,7 @@
 import random
-
+#Player 1 will choose either Rock, Paper, or Scissor
 player1 = input("Select Rock, Paper, or Scissor :").lower()
+#Player 2 will be computer and will take a random input.
 player2 = random.choice(["Rock", "Paper", "Scissor"]).lower()
 print("Player 2 selected: ", player2)
 
